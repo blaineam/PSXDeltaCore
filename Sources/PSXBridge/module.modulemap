@@ -1,0 +1,6 @@
+module PSXBridge {
+    header "PSXEmulatorBridge.h"
+    header "PSXHost.h"
+    header "PSXTypes.h"
+    export *
+}
