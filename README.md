@@ -1,5 +1,8 @@
 # PSXDeltaCore
 
 A PSX DeltaCore based on Mednafen.
-# PSXDeltaCore
-# PSXDeltaCore
+
+# Contributors
+@ianclawson
+@blaineam
+Mednafen Emulator
